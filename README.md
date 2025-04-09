@@ -13,6 +13,10 @@ MQTT integration allows you to ensure traffic integrity (with QOS > 0).<br>
 The disadvantage of this solution is the limited CPU power of the SLZB-06 controller, which leads to a limitation of the maximum number of ZigBee devices that it can process.<br>
 Also, the support for the functionality of ZigBee devices is limited (will be expanded over time)
 
+# **Zigbee chip update warning**
+Currently, Zigbee Hub does not support restoring a backup of your Zigbee network after a Zigbee chip firmware update!<br>
+This means that after updating the Zigbee chip firmware, you will have to **re-pair all your Zigbee devices!**
+
 # What is currently supported?
 ## Power config cluster (0x0001)
 - Battery charge (for battery-powered devices)
