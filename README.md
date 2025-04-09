@@ -1,3 +1,5 @@
+# [Tested Zigbee devices](https://github.com/smlight-tech/slzb-os-zigbee-hub/tree/main/devices_support)
+
 # What is the operating mode: Zigbee Hub?
 <img src="./images/regular_tcp.jpg?raw=true" width=650px/><br>
 The normal TCP bridge mode forwards raw ZigBee traffic over the network to be processed by Z2M or ZHA. This means that you are highly dependent on network stability and any packet loss will lead to errors.<br>
