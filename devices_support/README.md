@@ -4,7 +4,7 @@
 | ------------- | ------------- | -------------  | -------------                             | -------------       | ------------- |
 | eWeLink       | SNZB-02P      |                | Temperature<br>Humidity<br>Battery charge |                     |               |
 | eWeLink  | MS01  |                |Battery charge<br>Motion detection|                     |                     | |
-|_TZ3000_abci1hiu|TS0044| | |Button commands are currently not sent via MQTT.<br>Battery level is not detected correctly.<br>Drains battery quickly.|Expose 4 clusters ON/OFF|
+|_TZ3000_abci1hiu|TS0044| | |Button commands are currently not sent via MQTT.<br>Battery level is not detected correctly|Expose 4 clusters ON/OFF<br>Drains battery quickly|
 |_TZ3000_wzmuk9ai|TS011F| |ON/OFF|Does not support voltage, current, and power reporting|Requires development of pooling functionality|
 |_TZ3000_8yhypbo7|TS0203| |Battery charge<br>Door status (closed/open)| | |
 |_TZ3000_itnrsufe|TS0201| |Temperature<br>Humidity<br>Battery charge| |Drains battery quickly|
