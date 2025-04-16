@@ -66,3 +66,9 @@ This cluster does not bind automatically!<br>
 The system will try to determine the voltage divider on its own.<br>
 Current divider - 10000<br>
 Power divider - 1<br>
+
+## Level Control for Lighting (0x0008)
+- CurrentLevel
+- Move to Level command (changing the brightness of the lamp)
+
+This cluster binds automatically.
