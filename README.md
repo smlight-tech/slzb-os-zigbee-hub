@@ -64,7 +64,7 @@ This cluster binds automatically.
 
 This cluster does not bind automatically!<br>
 The system will try to determine the voltage divider on its own.<br>
-Current divider - 10000<br>
+Current divider - 1000<br>
 Power divider - 1<br>
 
 ## Level Control for Lighting (0x0008)
