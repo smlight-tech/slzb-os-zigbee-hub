@@ -72,3 +72,10 @@ Power divider - 1<br>
 - Move to Level command (changing the brightness of the lamp)
 
 This cluster binds automatically.
+
+## Color Control (0x0300)
+- CurrentX/Y (current color)
+- Move to color command (changing the color of the lamp)
+- Move to color temperature command (changing the color temperature of the lamp)
+
+This cluster binds automatically.
