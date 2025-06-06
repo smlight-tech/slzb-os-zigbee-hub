@@ -8,7 +8,7 @@
 |<img src="./images/_TZ3000_wzmuk9ai.TS011F.png?raw=true" width=100px/>|_TZ3000_wzmuk9ai|TS011F| |ON/OFF|Does not support voltage, current, and power reporting|Requires development of pooling functionality|
 |<img src="./images/_TZ3000_8yhypbo7.TS0203.png?raw=true" width=100px/>|_TZ3000_8yhypbo7|TS0203| |Battery<br>Door status (closed/open)| | |
 |<img src="./images/_TZ3000_itnrsufe.TS0201.png?raw=true" width=100px/>|_TZ3000_itnrsufe|TS0201| |Temperature<br>Humidity<br>Battery| |Drains battery quickly|
-|<img src="./images/LUMI.lumi.weather.webp?raw=true" width=100px/>|LUMI|lumi.weather| |Temperature<br>Humidity<br>Pressure|Battery| |
+|<img src="./images/LUMI.lumi.weather.webp?raw=true" width=100px/>|LUMI|lumi.weather|https://www.aliexpress.com/item/1005007471041068.html|Temperature<br>Humidity<br>Pressure|Battery| |
 |<img src="./images/eWeLink.CK-BL702-AL-01(7009_Z102LG03-1).png?raw=true" width=100px/>|eWeLink|CK-BL702-AL-01(7009_Z102LG03-1)|https://www.aliexpress.com/item/1005007183053442.html|ON/OFF<br>Brightness<br>Color<br>Color temperature|Touchlink||
 |<img src="./images/_TZ3000_kqvb5akv.TS0001.png?raw=true" width=100px/>|_TZ3000_kqvb5akv|TS0001| |ON/OFF<br>Voltage<br>Crrent<br>Power| | |
 |<img src="./images/_TZ3000_abrsvsou.TS004F.png?raw=true" width=100px/>|_TZ3000_abrsvsou|TS004F| |Battery|Button commands are currently not sent via MQTT| | |
