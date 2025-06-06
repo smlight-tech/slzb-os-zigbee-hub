@@ -12,5 +12,4 @@
 |<img src="./images/eWeLink.CK-BL702-AL-01(7009_Z102LG03-1).png?raw=true" width=100px/>|eWeLink|CK-BL702-AL-01(7009_Z102LG03-1)|https://www.aliexpress.com/item/1005007183053442.html|ON/OFF<br>Brightness<br>Color<br>Color temperature|Touchlink||
 |<img src="./images/_TZ3000_kqvb5akv.TS0001.png?raw=true" width=100px/>|_TZ3000_kqvb5akv|TS0001| |ON/OFF<br>Voltage<br>Crrent<br>Power| | |
 |<img src="./images/_TZ3000_abrsvsou.TS004F.png?raw=true" width=100px/>|_TZ3000_abrsvsou|TS004F|https://www.aliexpress.com/item/1005007475312050.html|Battery|Button commands are currently not sent via MQTT| | |
-|<img src="./images/_TZE204_d7lpruvi.TS0601.png?raw=true" width=100px/>|_TZ3000_abrsvsou|TS004F|https://www.aliexpress.com/item/1005006861229185.html|Date/Time sync|Temperature<br>Humidity<br>Battery| | |
-
+|<img src="./images/_TZE204_d7lpruvi.TS0601.png?raw=true" width=100px/>|_TZ3000_abrsvsou|TS004F|https://www.aliexpress.com/item/1005006861229185.html|Date/Time sync|Temperature<br>Humidity<br>Battery|Requires SLZB-OS v2.8.8 or higher|
