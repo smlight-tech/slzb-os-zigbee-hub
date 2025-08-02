@@ -15,3 +15,4 @@
 |<img src="./images/_TZE204_d7lpruvi.TS0601.png?raw=true" width=100px/>|_TZE204_d7lpruvi|TS0601|https://www.aliexpress.com/item/1005006861229185.html|Date/Time sync<br>Temperature<br>Humidity<br>Battery||Requires SLZB-OS v2.9.5 or higher|
 |<img src="./images/LUMI.lumi.sensor_wleak.aq1.png?raw=true" width=100px/>|LUMI|lumi.sensor_wleak.aq1|https://www.aliexpress.com/item/1005006209143082.html|Flood<br>Battery||Requires SLZB-OS v2.9.3 or higher.<br>Battery is supported from SLZB-OS 2.9.5|
 |<img src="./images/eWeLink.SNZB-01P.png?raw=true" width=100px/>|eWeLink|SNZB-01P|https://sonoff.tech/products/sonoff-zigbee-wireless-switch-snzb-01p|Long press, short, double.<br>Battery||Requires SLZB-OS v2.9.5|
+|<img src="./images/eWeLink.SNZB-04P.png?raw=true" width=100px/>|eWeLink|SNZB-04P|https://sonoff.tech/products/sonoff-zigbee-door-window-sensor-snzb-04p|Open/close state.<br>Battery|Tamper||
